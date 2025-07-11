@@ -17,7 +17,8 @@ Go 언어와 Gin 프레임워크를 활용해 구현한 간단한 이슈 관리 
 
 ## 🧱 프로젝트 구조
 
-```Issue-api/
+```
+Issue-api/
 ├── main.go
 ├── go.mod
 ├── go.sum
@@ -29,7 +30,8 @@ Go 언어와 Gin 프레임워크를 활용해 구현한 간단한 이슈 관리 
 ├── controllers/
 │ └── issue_controller.go
 ├── router/
-│ └── router.go ```
+│ └── router.go
+```
 
 seed.go: 초기 사용자 및 이슈 데이터
 
