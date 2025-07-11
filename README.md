@@ -19,17 +19,17 @@ Go 언어와 Gin 프레임워크를 활용해 구현한 간단한 이슈 관리 
 
 Issue-api/
 ├── main.go
-├── go.mod / go.sum
+├── go.mod
+├── go.sum
 ├── README.md
 ├── data/
-│ └── seed.go # 초기 사용자 및 이슈 데이터
+│ └── seed.go
 ├── models/
-│ └── models.go # User, Issue 데이터 구조 정의
+│ └── models.go
 ├── controllers/
-│ └── issue_controller.go # API 핸들러 함수들
+│ └── issue_controller.go
 ├── router/
-│ └── router.go # 라우터 정의
-
+│ └── router.go
 
 ---
 
